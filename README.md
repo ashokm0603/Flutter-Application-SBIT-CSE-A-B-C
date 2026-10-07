@@ -137,3 +137,19 @@ Steps to  Flutter App:
 
 1.MaterialApp designing 
 2.CupertinoApp designing
+
+
+
+
+
+
+
+Layout Widgets : 
+----------------
+
+    1. Container ->
+    2. Row 
+    3. Column 
+    4. Center 
+    5. SizedBox 
+    6. Stack 
