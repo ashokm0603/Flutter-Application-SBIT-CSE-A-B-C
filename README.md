@@ -153,3 +153,37 @@ Layout Widgets :
     4. Center 
     5. SizedBox 
     6. Stack 
+
+
+
+# Navigation using Navigator Class : 
+--------------------------------------
+        ->In Flutter Navigation flows Stack based routing 
+
+    1. push(context , MaterialPageRoute(builder:(context)=>Screen))
+    2. pop(context)
+
+    3. pushedName(context , "path")
+
+
+
+stylings : 
+    1. Container -> decoration : BoxDecoration()
+    2. text      -> style :TextStyle()
+    3. input     -> decoration : InputDecoration()
+
+
+# Button Widgets : 
+-----------------
+    1. TextButton() 
+    2. OutlineButton()
+    3. FilledButton()
+    4. ElevatedButton()
+    5. IconButton()
+
+
+
+# Input widgets 
+---------------
+    1. TextField()
+    2. TextFormField()

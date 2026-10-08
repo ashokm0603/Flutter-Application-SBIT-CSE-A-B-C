@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:thinkmart/screens/LandingScreen.dart';
+import 'package:thinkmart/pages/Home.dart';
 
 void main() {
-  runApp(LandingScreen());
+  runApp(MaterialApp(debugShowCheckedModeBanner: false, home: Home()));
 }
